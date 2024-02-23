@@ -4,7 +4,7 @@
 This is a simple login page showcasing a username and password box and a submit button. Built using HTML and CSS.
 
 ## Screenshots
-![Screenshot 2024-02-20 162708-modified](https://github.com/HugoAdona/Login-Page-Demo/assets/159626840/cddc0e30-6856-4029-a0ec-381eaeb481bd)
+![Screenshot 2024-02-20 162708-modified](https://github.com/HugoAdona/SimpleLoginPage/assets/159626840/ff2115f4-7c42-4b2e-9fe3-d8d5fe9b7f7d)
 
 ## Technologies Used
 - HTML
