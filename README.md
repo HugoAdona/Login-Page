@@ -9,6 +9,3 @@ This is a simple login page built using HTML and CSS.
 ## Installation
 1. Clone the repository.
 2. Open index.html in your browser.
-
-## Usage
-Type your username and password in the box and click submit.
