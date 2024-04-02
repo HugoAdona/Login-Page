@@ -1,6 +1,7 @@
 # Register Page
 
-This project is a simple registration page designed to allow users to create accounts on a website or application.
+This project is a simple demo registration page designed to allow users to create accounts on a website or application.
+Currently, there is no way to create an account but I will be working on it soon.
 
 ## Features
 
